@@ -6,6 +6,7 @@ float temperature;
 float humidity;
 float pressure;
 float test; 
+int test2;
 
 #define ALTITUDE 20.0 // Altitude in Hangzhou
 
