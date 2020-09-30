@@ -5,6 +5,7 @@
 float temperature;
 float humidity;
 float pressure;
+float test; 
 
 #define ALTITUDE 20.0 // Altitude in Hangzhou
 
