@@ -1,3 +1,5 @@
+// tutorial for middle China kids to learn programming =
+
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 #include <LiquidCrystal.h>
